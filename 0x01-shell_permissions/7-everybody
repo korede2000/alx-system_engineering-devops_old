@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --preserve-root 555 hello
+chmod +111 hello
